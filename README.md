@@ -1,5 +1,5 @@
 ## Assignment 2
-### Studente
+### Studenti
 
 | Nome e Cognome  | Mail Unimib | Utente GitLab |
 | ---------------- | ------------- | ------------------  |
