@@ -14,7 +14,7 @@ Definire una strategia per acquisire conoscenze su un prodotto software che deve
 
 ### Descrizione Progetto
 
-Un'applicazione per permettere alle persone di poter prenotare in maniera smart un'ombrellone, di un determinato chalet, magari usufruendo anche dei vari sconti proposti.
+Un'applicazione per permettere alle persone di poter prenotare in maniera smart un'ombrellone, di un determinato chalet, magari usufruendo anche dei vari sconti proposti, come accade già per i vari ristoranti tramite l'applicazione TheFork.
 
 ### (a) Insieme di tutti gli stakeholders
 
