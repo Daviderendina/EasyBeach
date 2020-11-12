@@ -3,7 +3,9 @@
 
 | Nome e Cognome  | Mail Unimib | Utente GitLab |
 | ---------------- | ------------- | ------------------  |
+| Davide Rendina | d.rendina2@campus.unimib.it  |  @daviderendina |
 | Gabriele Maria Bucosse  | g.bucosse@campus.unimib.it  | @gabriele_maria_bucosse  |
+| Ruggero Panzeri  | r.panzeri12@campus.unimib.it  | @ruggero_panzeri_unimib |
 
 ### Repo
 [2020_assignment2_booking_seaside_chalet](https://gitlab.com/gabriele_maria_bucosse/2020_assignment2_booking_seaside_chalet)
