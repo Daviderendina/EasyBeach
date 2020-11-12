@@ -16,11 +16,11 @@ Definire una strategia per acquisire conoscenze su un prodotto software che deve
 
 Un'applicazione per permettere alle persone di poter prenotare in maniera smart un'ombrellone, di un determinato chalet, magari usufruendo anche dei vari sconti proposti.
 
-### a) Insieme di tutti gli stakeholders
+### (a) Insieme di tutti gli stakeholders
 
-### b)
+### (b)
 
-### c)
+### (c)
 
-### d)
+### (d)
 
