@@ -51,7 +51,25 @@ E' possibile inoltre effettuare il pagamento attraverso l'applicazione, utilizza
 
 - Clienti: vogliamo sapere quali funzionalità potrebbero apprezzare, consigli su servizi che vorrebbero avere all'interno dell'applicazione, e la qualità generale del servizio.
 
-### (b)
+### (b) Elenco e spiegazione delle attività di elicitazione
+##### Piano di elicitazione
+
+##### Sistema attuale
+- I clienti attualmente per prenotare gli chalet si recano personalmente sul posto o chiamano per telefono. 
+- Se trovano uno chalet completamente occupato si spostano o chiamano il prossimo.
+- La reputazione degli chalet viene condivisa tramite passaparola senza un garante di veridicità
+
+    ##### PRO
+    - Miglior interazione sociale
+
+    ##### CONS
+    - Spreco di tempo
+    - nessuna garanzia di riuscita 
+    - nessuna garanzia di qualità
+    - difficile espanione
+    - notorietà degli chalet limitata
+
+
 
 ### (c)
 
