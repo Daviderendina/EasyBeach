@@ -55,21 +55,25 @@ E' possibile inoltre effettuare il pagamento attraverso l'applicazione, utilizza
 ##### Piano di elicitazione
 Viene ora presentato il piano di elicitazione, approfondito nelle varie attività svolte all'interno dei successivi paragrafi.
 
-1. **Background analysis** si vuole ottenere la conoscenza necessaria riguardante il dominio di riferimento e il system as-is 
-2. **Analisi e identificazione degli stakeholder** al fine di identificare tutti i soggetti che hanno qualche tipo di relazione con il sistem to-be, descrivendo anche quale il loro tipo di interesse nei confronti del sistema da sviluppare. 
+1. **Background analysis** si vuole ottenere la conoscenza necessaria riguardante il dominio di riferimento e il system as-is attraverso una loro analisi approfondita e comprensione.
+2. **Analisi e identificazione degli stakeholder** al fine di identificare tutti i soggetti in relazione con il sistem to-be, descrivendo anche nel dettaglio perchè e in che modo hanno interesse nei confronti del sistema da sviluppare. 
 <!--Per questa attività verra effettuato un brainstorming tra gli sviluppatori del progetto, utilizzando per l'identificazione le informazioni recuperate dalla _background analysis_ e le domande proposte nelle slide (assolutamente da cambiare - magari tutta questa frase va descritta nella parte dove descriviamo bene l'analisi)-->
-3. **Riunione del team** per definire gli obiettivi del system to-be e identificare i primi requisiti, in modo da poter scrivere questionari "dritti al punto".
-4. **Preparazione e sottomissione dei questionari** 
-5. **Analisi delle risposte ricevute dai questionari** le risposte ricevute dai questionari verranno poi analizzate per capire il punto di vista degli stakeholder e definire i requisiti in base alle risposte ricevute.
+3. **Riunione del team** per definire gli obiettivi del system to-be e identificare i primi requisiti.
+4. **Preparazione e sottomissione dei questionari** saranno preparati i questionari da sottoporre alle varie tipologie di stakeholder. In particolare verrà preparato un questionario per ogni stakeholder ritenuto significativo per la scoperta di nuovi requisiti.
+5. **Analisi delle risposte ricevute dai questionari** le risposte ricevute dai questionari saranno analizzate per comprendere il punto di vista degli stakeholder riguardo temi particolari e definire i requisiti in base alle risposte ricevute.
 6. **Generazione degli scenari e discussione con gli stakeholder** verranno inoltre generati gli scenari più significativi dell'applicazione, per comprendere al meglio la gestione di situazioni particolari che potrebbero verificarsi.
-7. **Definizione dei requisiti**
+7. **Definizione dei requisiti** infine saranno generati i requisiti dell'applicazione analizzando le informazioni ricevute da tutte le attività svolte.
 
 ![](img/workflow.png)
 
 ##### Sistema attuale
 - I clienti attualmente per prenotare gli chalet si recano personalmente sul posto o chiamano per telefono. 
-- Se trovano uno chalet completamente occupato si spostano o chiamano il prossimo.
-- La reputazione degli chalet viene condivisa tramite passaparola senza un garante di veridicità
+- Se scelgono di recarsi sul posto ma trovano uno chalet completamente occupato oppure che ha un prezzo troppo elevato secondo le loro esigenze, si spostano verso il successivo.
+- Se invece provano a chiamare lo chalet per verificare la disponibilità oppure i costi di un determinato chalet ma non lo considerano adatto oppure non risulta disponibile, devono effettuare una chiamata allo chalet successivo.
+- Per la ricerca dei numeri di telefono possono utilizzare un'agenda telefonica oppure diversi servizi presenti sul web (ricerca con Google, pagine degli stabilimenti sui social network, ecc..). 
+<!-- - Si segnala che è più probabile che le piattaforme web (più immediate nella ricerca) siano preferite da un utenza più giovane mentre per persone non esperte con la tecnologia è probabile venga utilizzato il primo metodo. -->
+- Anche per la consultazione di servizi disponibili presso lo stabilimento ed eventuali menù/prezzi vengono utilizzati i metodi presentati in precedenza (contatto telefonico o recarsi sul posto).
+- La reputazione degli chalet viene condivisa tramite passaparola senza un garante di veridicità.
 
     ##### PRO
     - Miglior interazione sociale
