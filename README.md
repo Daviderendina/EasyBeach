@@ -24,21 +24,26 @@ E' possibile inoltre effettuare il pagamento attraverso l'applicazione, utilizza
 
 Viene ora presentato il piano di elicitazione, approfondito nelle varie attività svolte all'interno dei successivi paragrafi.
 
-a. **Background analysis** si vuole ottenere la conoscenza necessaria riguardante il dominio di riferimento e il system as-is attraverso una loro analisi approfondita e comprensione.
-b. **Analisi e identificazione degli stakeholder** al fine di identificare tutti i soggetti in relazione con il sistem to-be, descrivendo anche nel dettaglio perchè e in che modo hanno interesse nei confronti del sistema da sviluppare. 
+1. **Background analysis** si vuole ottenere la conoscenza necessaria riguardante il dominio di riferimento e il system as-is attraverso una loro analisi approfondita e comprensione.
+
+2. **Analisi e identificazione degli stakeholder** al fine di identificare tutti i soggetti in relazione con il sistem to-be, descrivendo anche nel dettaglio perchè e in che modo hanno interesse nei confronti del sistema da sviluppare. 
 <!--Per questa attività verra effettuato un brainstorming tra gli sviluppatori del progetto, utilizzando per l'identificazione le informazioni recuperate dalla _background analysis_ e le domande proposte nelle slide (assolutamente da cambiare - magari tutta questa frase va descritta nella parte dove descriviamo bene l'analisi)-->
-c. **Riunione del team** per definire gli obiettivi del system to-be e identificare i primi requisiti.
-d. **Preparazione e sottomissione dei questionari** saranno preparati i questionari da sottoporre alle varie tipologie di stakeholder. In particolare verrà preparato un questionario per ogni stakeholder ritenuto significativo per la scoperta di nuovi requisiti.
-e. **Analisi delle risposte ricevute dai questionari** le risposte ricevute dai questionari saranno analizzate per comprendere il punto di vista degli stakeholder riguardo temi particolari e definire i requisiti in base alle risposte ricevute.
-f. **Generazione degli scenari e discussione con gli stakeholder** verranno inoltre generati gli scenari più significativi dell'applicazione, per comprendere al meglio la gestione di situazioni particolari che potrebbero verificarsi.
-g. **Definizione dei requisiti** infine saranno generati i requisiti dell'applicazione analizzando le informazioni ricevute da tutte le attività svolte.
+3. **Riunione del team** per definire gli obiettivi del system to-be e identificare i primi requisiti.
+
+4. **Preparazione e sottomissione dei questionari** saranno preparati i questionari da sottoporre alle varie tipologie di stakeholder. In particolare verrà preparato un questionario per ogni stakeholder ritenuto significativo per la scoperta di nuovi requisiti.
+
+5. **Analisi delle risposte ricevute dai questionari** le risposte ricevute dai questionari saranno analizzate per comprendere il punto di vista degli stakeholder riguardo temi particolari e definire i requisiti in base alle risposte ricevute.
+
+6. **Generazione degli scenari e discussione con gli stakeholder** verranno inoltre generati gli scenari più significativi dell'applicazione, per comprendere al meglio la gestione di situazioni particolari che potrebbero verificarsi.
+
+7. **Definizione dei requisiti** infine saranno generati i requisiti dell'applicazione analizzando le informazioni ricevute da tutte le attività svolte.
 
 ![](img/workflow.png)
 
 
 ## Descrizione approfondita delle attività svolte
 
-### a. Background Analysis
+### 1. Background Analysis
 
 #### System as-is
 - I clienti attualmente per prenotare gli chalet si recano personalmente sul posto o chiamano per telefono. 
@@ -62,7 +67,7 @@ g. **Definizione dei requisiti** infine saranno generati i requisiti dell'applic
     - Difficoltà nel presentare eventuali offerte
 
 
-### b. Identificazione degli stakeholder
+### 2. Identificazione degli stakeholder
 
 #### Stakeholders primari:
 
@@ -94,9 +99,9 @@ g. **Definizione dei requisiti** infine saranno generati i requisiti dell'applic
 - Clienti: vogliamo sapere quali funzionalità potrebbero apprezzare, consigli su servizi che vorrebbero avere all'interno dell'applicazione, e la qualità generale del servizio.
 
 
-### c. Riunione del team
-### d. Preparazione e sottomissione dei questionari
-### e. Analisi delle risposte ricevute dai questionari
-### f. Generazione degli scenari e discussione con gli stakeholder
-### g. Definizione dei requisiti
+### 3. Riunione del team
+### 4. Preparazione e sottomissione dei questionari
+### 5. Analisi delle risposte ricevute dai questionari
+### 6 Generazione degli scenari e discussione con gli stakeholder
+### 7. Definizione dei requisiti
 
