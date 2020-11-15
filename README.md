@@ -64,6 +64,8 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit√
 6. **Generazione degli scenari e discussione con gli stakeholder** verranno inoltre generati gli scenari pi√π significativi dell'applicazione, per comprendere al meglio la gestione di situazioni particolari che potrebbero verificarsi.
 7. **Definizione dei requisiti**
 
+![](img/workflow.png)
+
 ##### Sistema attuale
 - I clienti attualmente per prenotare gli chalet si recano personalmente sul posto o chiamano per telefono. 
 - Se trovano uno chalet completamente occupato si spostano o chiamano il prossimo.
