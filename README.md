@@ -58,11 +58,11 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit�
 1. **Background analysis** si vuole ottenere la conoscenza necessaria riguardante il dominio di riferimento e il system as-is 
 2. **Analisi e identificazione degli stakeholder** al fine di identificare tutti i soggetti che hanno qualche tipo di relazione con il sistem to-be, descrivendo anche quale il loro tipo di interesse nei confronti del sistema da sviluppare. 
 <!--Per questa attività verra effettuato un brainstorming tra gli sviluppatori del progetto, utilizzando per l'identificazione le informazioni recuperate dalla _background analysis_ e le domande proposte nelle slide (assolutamente da cambiare - magari tutta questa frase va descritta nella parte dove descriviamo bene l'analisi)-->
-2. **Riunione tra gli sviluppatori** per definire gli obiettivi del system to-be e identificare i primi requisiti, in modo da poter scrivere questionari "dritti al punto".
-3. **Preparazione e sottomissione dei questionari** 
-4. **Analisi delle risposte ricevute dai questionari** le risposte ricevute dai questionari verranno poi analizzate per capire il punto di vista degli stakeholder e definire i requisiti in base alle risposte ricevute.
-5. **Generazione degli scenari e discussione con gli stakeholder** verranno inoltre generati gli scenari più significativi dell'applicazione, per comprendere al meglio la gestione di situazioni particolari che potrebbero verificarsi.
-6. **Definizione dei requisiti**
+3. **Riunione del team** per definire gli obiettivi del system to-be e identificare i primi requisiti, in modo da poter scrivere questionari "dritti al punto".
+4. **Preparazione e sottomissione dei questionari** 
+5. **Analisi delle risposte ricevute dai questionari** le risposte ricevute dai questionari verranno poi analizzate per capire il punto di vista degli stakeholder e definire i requisiti in base alle risposte ricevute.
+6. **Generazione degli scenari e discussione con gli stakeholder** verranno inoltre generati gli scenari più significativi dell'applicazione, per comprendere al meglio la gestione di situazioni particolari che potrebbero verificarsi.
+7. **Definizione dei requisiti**
 
 ##### Sistema attuale
 - I clienti attualmente per prenotare gli chalet si recano personalmente sul posto o chiamano per telefono. 
