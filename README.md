@@ -109,7 +109,7 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 - Ogni struttura sarà identificata attraverso il proprio nome.
 
-- Ogni struttura inserita avrà la propria pagina con posizione sulla mappa, descrizione e relativo costo di ogni servizio offerto.
+- Ogni struttura inserita avrà la propria pagina con: foto, posizione sulla mappa, descrizione e relativo costo di ogni servizio offerto.
 
 - Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base a dei filtri sulla ricerca, basati sulle preferenze riguardo i servizi offerti, prezzi, metodi di pagamento etc.
 
