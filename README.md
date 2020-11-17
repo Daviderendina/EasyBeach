@@ -111,7 +111,7 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 - Ogni struttura inserita avrà la propria pagina con: foto, posizione sulla mappa, descrizione e relativo costo di ogni servizio offerto.
 
-- Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base a dei filtri sulla ricerca, basati sulle preferenze riguardo i servizi offerti, prezzi, metodi di pagamento etc.
+- Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base a dei filtri sulla ricerca, basati sulle preferenze riguardo: servizi offerti, prezzi, metodi di pagamento etc.
 
 - I clienti registrati potranno effettuare qualunque tipo di prenotazione per la struttura scelta, secondo le regole imposte da ogni struttura (Ad esempio pagamento immediato, pagamento in struttura, cancellazione gratuita etc.)
 
