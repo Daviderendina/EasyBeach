@@ -100,6 +100,25 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit�
 
 
 ### 3. Riunione del team
+
+Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle funzionalità di EasyBeach, per effettuare una valutazione preliminare dei possibili requisiti del system-to-be, tenendo conto anche del dominio del software, utile al fine di creare un questionario mirato. Per questo motivo, in questo punto è presentato un ragionamento delle possibili funzionalità che abbiamo identificato, le quali dovrebbero essere presenti nell'app.
+
+- Tutti possono accedere all'app, ma solamente chi si registra all'interno dell'app potrà: o inserire la propria struttura nel caso dei gestori, o effettuare qualunque tipo di prenotazione nel caso dei clienti.
+
+- Per inserire il proprio chalet nell'app, il gestore dovrà superare il controllo di verifica di identità durante la registrazione.
+
+- Ogni struttura sarà identificata attraverso il proprio nome.
+
+- Ogni struttura inserita avrà la propria pagina con posizione sulla mappa, descrizione e relativo costo di ogni servizio offerto.
+
+- Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base a dei filtri sulla ricerca, basati sulle preferenze riguardo i servizi offerti, prezzi, metodi di pagamento etc.
+
+- I clienti registrati potranno effettuare qualunque tipo di prenotazione per la struttura scelta, secondo le regole imposte da ogni struttura (Ad esempio pagamento immediato, pagamento in struttura, cancellazione gratuita etc.)
+
+- I clienti, dopo aver effettuato la prenotazione ed aver terminato l'esperienza presso la struttura prenotata, potranno scrivere una recensione in merito alla stessa
+
+- I gestori/personale della struttura, terminata l'esperienza del cliente, potranno dare fare una recensione al cliente
+
 ### 4. Preparazione e sottomissione dei questionari
 ### 5. Analisi delle risposte ricevute dai questionari
 ### 6 Generazione degli scenari e discussione con gli stakeholder
