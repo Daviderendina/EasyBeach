@@ -109,7 +109,7 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 - Ogni struttura sarà identificata attraverso il proprio nome.
 
-- Ogni struttura inserita avrà la propria pagina con: foto, posizione sulla mappa, descrizione e relativo costo di ogni servizio offerto.
+- Ogni struttura inserita avrà la propria pagina con: foto, posizione sulla mappa, descrizione, relativo costo di ogni servizio offerto, sezione recensioni.
 
 - Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base a dei filtri sulla ricerca, basati sulle preferenze riguardo: servizi offerti, prezzi, metodi di pagamento etc.
 
@@ -117,7 +117,9 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 - I clienti, dopo aver effettuato la prenotazione ed aver terminato l'esperienza presso la struttura prenotata, potranno scrivere una recensione in merito alla stessa
 
-- I gestori/personale della struttura, terminata l'esperienza del cliente, potranno dare fare una recensione al cliente
+- I gestori/personale della struttura, terminata l'esperienza del cliente, potranno dare fare una recensione al cliente.
+
+- Per qualsiasi problematica riscontrata da qualunque utente all'interno dell'app, sarà presente una sezione "contattaci", nella quale sarà avviato un collegamento diretto con i manutentori dell'applicazione tramite mail o tramite live chat.
 
 ### 4. Preparazione e sottomissione dei questionari
 ### 5. Analisi delle risposte ricevute dai questionari
