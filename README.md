@@ -82,6 +82,8 @@ Viene riportato di seguito ciò che il team è stato in grado di scoprire durant
 - Vogliono incrementare i profitti
 - Vogliono incrementare il loro bacino di utenza
 
+##### Dipendenti dello chalet
+
 ##### Clienti:
 - Vogliono conoscere i vari locali che offrono quel determinato servizio
 - Vogliono poter confrontare le varie offerte proposte
