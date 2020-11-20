@@ -41,7 +41,7 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit�
 ![](img/workflow.png)
 
 
-## Descrizione approfondita delle attività svolte
+## Descrizione approfondita delle attività
 
 ### 1. Background Analysis
 
@@ -71,6 +71,19 @@ Viene riportato di seguito ciò che il team è stato in grado di scoprire durant
 
 
 ### 2. Identificazione degli stakeholder
+
+Obiettivo dell'attività è l'identificazione degli stakeholder, ovvero tutti i soggetti che sono direttamente o indirettamente relazionati al progetto. In particolare gli stakeholder vengono divisi in due categorie, primari e secondari, in base al grado di interesse (rispettivamente forse oppure debole) mostrato nei confronti del system to-be.
+
+Per l'identificazione degli stakeholder, è stata fatta una sessione di brainstorming tra i componenti del gruppo, chiedendosi le seguenti domande:
+– Who is affected positively and negatively by the project?
+– Who has the power to make it succeed (or fail)?
+– Who makes the decisions about money?
+– Who are the suppliers?
+– Who are the end users?
+– Who has influence over other stakeholders?
+– Who could solve potential problems with the project?
+– Who is in charge of assigning or procuring resources or facilities?
+– Who has specialist skills which are crucial to the project?
 
 #### Stakeholders primari:
 
