@@ -128,12 +128,19 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 ![](img/workflow-quest.jpg)
 
+##### Area introduttiva
+
 *Quanti anni hai?*
 Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età.
 
 *Hai mai usato un'applicazione per prenotare o usufruire di servizi?*
 Analizzare se l'utente ha dimestichezza con altri sistemi di prenotazione online, per analizzare le risposte in base alle esperienze passate. 
 
+##### Area introduttiva app usate
+##### Area chalet
+##### Area feature
+##### Area cliente
+##### Area proprietario
 
 ### 5. Analisi delle risposte ricevute dai questionari
 ### 6 Generazione degli scenari e discussione con gli stakeholder
