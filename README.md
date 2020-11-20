@@ -126,7 +126,7 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 ### 4. Preparazione e sottomissione dei questionari
 
-![](img/workflow-quest.png)
+![](img/workflow-quest.jpg)
 
 *Quanti anni hai?*
 Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età.
