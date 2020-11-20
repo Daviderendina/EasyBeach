@@ -45,6 +45,9 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit�
 
 ### 1. Background Analysis
 
+Obiettivo dell'attività di background analysis è la definizione delle caratteristiche del system as-is. Avendo già il team le conoscenze necessarie per il dominio di riferimento, non è stato necessario accedere a documenti e informazioni particolari.
+Viene riportato di seguito ciò che il team è stato in grado di scoprire durante questa attività (TODO: forse va messo nell'appendice)
+
 #### System as-is
 - I clienti attualmente per prenotare gli chalet si recano personalmente sul posto o chiamano per telefono. 
 - Se scelgono di recarsi sul posto ma trovano uno chalet completamente occupato oppure che ha un prezzo troppo elevato secondo le loro esigenze, si spostano verso il successivo.
@@ -64,7 +67,7 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit�
     - Nessuna garanzia di qualità
     - Difficile espanione
     - Notorietà degli chalet limitata
-    - Difficoltà nel presentare eventuali offerte
+    - Difficoltà nel presentare eventuali offerte o promozioni
 
 
 ### 2. Identificazione degli stakeholder
@@ -91,7 +94,7 @@ Viene ora presentato il piano di elicitazione, approfondito nelle varie attivit�
 #### Stakeholders secondari:
 
 ##### Competitori:
-- Altri servizi di booking: la loro utenza potrebbe diminuirsi a causa della nostra applicazione.
+- Altri servizi di booking: la loro utenza potrebbe diminuirsi a causa di questa applicazione.
 
 #### Stakeholders scelti per i questionari:
 - Proprietari/Gestori: vogliamo sapere quali funzionalità potrebbero apprezzare, in quale modo vorrebbero averle a disposizione, e gli aspetti più e meno interessanti tramite i quali l'applicazione potrebbe suscitare o meno interesse.
@@ -111,7 +114,7 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 - Ogni struttura inserita avrà la propria pagina con: foto, posizione sulla mappa, descrizione, relativo costo di ogni servizio offerto, sezione recensioni.
 
-- Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base a dei filtri sulla ricerca, basati sulle preferenze riguardo: servizi offerti, prezzi, metodi di pagamento etc.
+- Ogni struttura potrà essere ricercata/classificata da chiunque utilizzi l'app in base ad alcuni filtri sulla ricerca, basati sulle preferenze riguardo: servizi offerti, prezzi, metodi di pagamento etc.
 
 - I clienti registrati potranno effettuare qualunque tipo di prenotazione per la struttura scelta, secondo le regole imposte da ogni struttura (Ad esempio pagamento immediato, pagamento in struttura, cancellazione gratuita etc.)
 
@@ -122,6 +125,14 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 - Per qualsiasi problematica riscontrata da qualunque utente all'interno dell'app, sarà presente una sezione "contattaci", nella quale sarà avviato un collegamento diretto con i manutentori dell'applicazione tramite mail o tramite live chat.
 
 ### 4. Preparazione e sottomissione dei questionari
+
+*Quanti anni hai?*
+Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età.
+
+*Hai mai usato un'applicazione per prenotare o usufruire di servizi?*
+Analizzare se l'utente ha dimestichezza con altri sistemi di prenotazione online, per analizzare le risposte in base alle esperienze passate. 
+
+
 ### 5. Analisi delle risposte ricevute dai questionari
 ### 6 Generazione degli scenari e discussione con gli stakeholder
 ### 7. Definizione dei requisiti
