@@ -74,16 +74,18 @@ Viene riportato di seguito ciò che il team è stato in grado di scoprire durant
 
 Obiettivo dell'attività è l'identificazione degli stakeholder, ovvero tutti i soggetti che sono direttamente o indirettamente relazionati al progetto. In particolare gli stakeholder vengono divisi in due categorie, primari e secondari, in base al grado di interesse (rispettivamente forse oppure debole) mostrato nei confronti del system to-be.
 
-Per l'identificazione degli stakeholder, è stata fatta una sessione di brainstorming tra i componenti del gruppo, chiedendosi le seguenti domande:
-– Who is affected positively and negatively by the project?
-– Who has the power to make it succeed (or fail)?
-– Who makes the decisions about money?
-– Who are the suppliers?
-– Who are the end users?
-– Who has influence over other stakeholders?
-– Who could solve potential problems with the project?
-– Who is in charge of assigning or procuring resources or facilities?
-– Who has specialist skills which are crucial to the project?
+Per l'identificazione degli stakeholder, è stata fatta una sessione di brainstorming tra i componenti del gruppo, utilizzando le seguenti domande:
+- Su quale categoria di persone il progetto ha un impatto positivo o negativo?
+- Chi ha il potere di permettere la riuscita o il fallimento del progetto?
+- Chi effettua le decisione riguardo i soldi?
+- Chi sono i fornitori?
+- Chi sono gli utenti finali?
+- Chi ha influenza sugli altri stakeholder?
+- Chi può risolvere problemi potenziali con il progetto?
+- Chi è responsabile dell'assegnazione o dell'approvvigionamento di risorse o strutture?
+- Chi ha le skills necessarie che sono cruciali per il progetto?
+
+Solo alcune domande sono state utili alla identificazione di nuove categorie di stakeholder mentre alcune non hanno portato alla scoperta di nulla.
 
 #### Stakeholders primari:
 
@@ -159,5 +161,6 @@ Analizzare se l'utente ha dimestichezza con altri sistemi di prenotazione online
 
 ### 5. Analisi delle risposte ricevute dai questionari
 ### 6 Generazione degli scenari e discussione con gli stakeholder
+### Prototipo ?
 ### 7. Definizione dei requisiti
 
