@@ -98,6 +98,11 @@ Solo alcune domande sono state utili alla identificazione di nuove categorie di 
 - Vogliono incrementare il loro bacino di utenza
 
 ##### Dipendenti dello chalet
+- La buona riuscita del progetto potrebbe causare un aumento della visibilità dello chalet, con conseguente aumento del flusso di clienti e della possibilità di lavoro.
+- I potenziali clienti sono già a conoscenza della maggior parte (se non totalità) dei servizi e prezzi dello chalet, quindi eviterebbero l'attività di fornire ogni volta informazioni generiche ai potenziali clienti.
+
+##### Addetto agli ombrelloni dello chalet
+- Ha interesse che il progetto abbia successo poiché il suo lavoro risulterebbe notevolmente alleggerito. Attraverso l'utilizzo dell'app dovrebbe solamente occuparsi della gestione dei pagamenti (se non viene già effettuato nell'app), ed eventualmente effettuare il controllo della prenotazione e accompanare i clienti all'ombrellone prenotato (anche se potrebbe essere svolto in autonomia dal cliente).
 
 ##### Clienti:
 - Vogliono conoscere i vari locali che offrono quel determinato servizio
