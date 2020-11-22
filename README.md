@@ -153,78 +153,88 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 ##### Area introduttiva
 In questa fase si vuole conoscere qualche informazione generale riguardo all'utente che sta svolgendo il questionario.
 
-*Quanti anni hai?*
+- *Quanti anni hai?* 
 Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età.
 
-*Hai mai usato un'applicazione per prenotare o usufruire di servizi?*
+- *Hai mai usato un'applicazione per prenotare o usufruire di servizi?* 
 Analizzare se l'utente ha dimestichezza con altri sistemi di prenotazione online, per analizzare le risposte in base alle esperienze passate. 
 
 ##### Area introduttiva app usate
-Questa successione di domande, punta a conoscere se l'utente che ha già utilizzato qualche app l'ha ritenuta utile o meno, e se quindi le applicazioni di questo tipo siano effettivamente percepite come utili dagli utenti o meno.
+Questa successione di domande, punta a conoscere se l'utente che ha già utilizzato qualche app l'ha ritenuta utile o meno, e se quindi le applicazioni di questo tipo siano effettivamente percepite come utili dagli utenti.
 
-*Quali app hai già usato per prenotare o usufruire di servizi?*
+- *Quali app hai già usato per prenotare o usufruire di servizi?* 
 ?
 
-*Hai riscontrato benefici dall'utilizzo di queste applicazioni?*
-*Nelle app che hai usato per prenotare hai sempre trovato tutte le informazioni che cercavi sulle strutture?*
+- *Hai riscontrato benefici dall'utilizzo di queste applicazioni?* (vedi dopo)
+
+- *Nelle app che hai usato per prenotare hai sempre trovato tutte le informazioni che cercavi sulle strutture?*
 Attraverso queste due domande si vuole comprendere se l'utente che ha già utilizzato queste applicazioni le ha trovate utili e complete, per capire se il nostro prodotto può portare a un valore aggiunto o meno e analizzare eventualmente le altre applicazioni di questo tipo per scovare i loro punti di debolezza.
 
 ##### Area chalet
-*Ritieni utile un applicazione che ti permetta di effettuare la prenotazione smart di ombrelloni presso gli chalet nelle località di mare?*
+- *Ritieni utile un applicazione che ti permetta di effettuare la prenotazione smart di ombrelloni presso gli chalet nelle località di mare?*
 Per comprendere se i potenziali stakeholder provano interesse nei confronti del system to-be.
 
-(TODO: prima dobbiamo chiedergli se va al mare?)
-*Hai mai cercato informazioni o caratteristiche riguardo agli chalet nelle località di mare (attraverso passaparola, internet, guide turistiche, ecc..) ?*
-*Sei hai risposto sì alla domanda precedente, sei riuscito ad ottenere con facilità le informazioni richieste?*
-Attraverso queste due domande cerchiamo di capire se le informazioni riguardanti gli chalet delle località marittime sono facilmente raggiungibili e esaustive, per comprendere se il nostro sistema potrebbe portare benefici agli utenti.
+- *Hai mai cercato informazioni o caratteristiche riguardo agli chalet nelle località di mare (attraverso passaparola, internet, guide turistiche, ecc..) ?* (vedi dopo)
+
+- *Sei hai risposto sì alla domanda precedente, sei riuscito ad ottenere con facilità le informazioni richieste?*
+(TODO: prima dobbiamo chiedergli se va al mare?) Attraverso queste due domande cerchiamo di capire se le informazioni riguardanti gli chalet delle località marittime sono facilmente raggiungibili e esaustive, per comprendere se il nostro sistema potrebbe portare benefici agli utenti.
 
 ##### Area feature
-*Da quale device utilizzeresti il nostro servizio?*
+- *Da quale device utilizzeresti il nostro servizio?* 
 Attraverso questa domanda si vuole appunto comprendere quali sono i device verso quale si dovrebbe porre maggior attenzione per la piattaforma. (TODO: abbiamo già deciso che è un applicazione, perchè dobbiamo chiedere anche questo?)
 
-*Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
+- *Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
 (TODO: se lascio questa togliere quella dei clienti ?)
 Si vuole comprendere se la presenza di un sistema di recensione degli chalet sia percepita in maniera positiva da clienti e proprietari
 
-*Troveresti utile avere recensioni da profili verificati (es. guide locali), per avere una maggiore affidabilità?*
+- *Troveresti utile avere recensioni da profili verificati (es. guide locali), per avere una maggiore affidabilità?*
 Si vuole comprendere se gli utenti percepirebbero le recensioni da utenti verificati (es. guide locali) come garanzia di affidabilità della recensione, e se un sistema del genere possa portare benefici al sistema di recensioni in generale.Si vuole quindi evitare di introdurre nelle specifiche una funzionalità che non sarebbe poi sfruttata a pieno dagli stakeholder.
 
-*Preferiresti recensioni con solo testo, o con la possibilità di aggiungere allegati? (Foto, video etc.)*
+- *Preferiresti recensioni con solo testo, o con la possibilità di aggiungere allegati? (Foto, video etc.)*
 Si vuole comprendere se l'introduzione di allegati alle recensioni sia effettivamente utile oppure utilizzata poco / non tuilizzata dagli utenti. Si vuole quindi evitare di introdurre nelle specifiche una funzionalità che non sarebbe poi sfruttata a pieno dagli stakeholder.
 
-*Sei il proprietario di uno chalet?*
+- *Sei il proprietario di uno chalet?*
 Poniamo questa domanda per suddividere la successiva parte del questionario in due aree dedicate per clienti e gestori.
 
 ##### Area proprietario
 
-*Come preferiresti ricevere pagamenti dal cliente?*
+- *Come preferiresti ricevere pagamenti dal cliente?*
+Vogliamo capire quali metodi di pagamenti sono preferiti dai gestori, per evitare di implementare poi metodi poco oppure non utilizzati del tutto.
 
-*Ritieni utile un servizio di promozione dello chalet via app? (Visibilità data dall'app piuttosto che ad esempio presenza nell'elenco telefonico)*
+- *Ritieni utile un servizio di promozione dello chalet via app? (Visibilità data dall'app piuttosto che ad esempio presenza nell'elenco telefonico)*
+?
 
-*Pagheresti una quota per pubblicizzarti all interno dell app?*
+- *Pagheresti una quota per pubblicizzarti all interno dell app (es. comparire tra i risultati sponsorizzati)?*
+Si vuole comprendere se un sistema di sponsorizzazione a pagamento possa essere utilizzato e percepito come utile dai gestori dello chalet.
 
-*Troveresti utile applicare tariffe personalizzate per chi prenota tramite l' app?*
+- *Troveresti utile applicare tariffe personalizzate per chi prenota tramite l' app?*
+Si vuole capire se i gestori sarebbero disposti a effettuare tariffe agevolate per le persone che prenotano attraverso l'app, per rendere la nostra applicazioni più utilizzata e nel frattempo "farsi a gara" tra competitori. (non mi piace)
 
-*Gradiresti vedere le statistiche relative alle prenotazioni ricevute attraverso l’applicazione?*
+- *Gradiresti vedere le statistiche relative alle prenotazioni ricevute attraverso l’applicazione?*
+Per far percepire l'utilità o meno della presenza dello chalet nella piattaforma, si chiede se consulterebbe statistiche elaborate per le prenotazioni avvenute presso il suo chalet.
 
-*Quale mezzo di notifica preferisci per essere avvisato delle prenotazioni?*
+- *Quale mezzo di notifica preferisci per essere avvisato delle prenotazioni?*
+Si vuole comprendere il gradimento del gestore riguardo ai diversi metodi di notifica proposti.
 
-*Ritieni utile un sistema per effettuare recensioni sui clienti?*
+- *Ritieni utile un sistema per effettuare recensioni sui clienti?*
+Si vuole capire se il gestore utilizzerebbe o meno un sistema di recensione sui clienti, siccome magari per mancanza di tempo o per difficoltà esso potrebbe non essere utilizzato.
 
-*Come preferireti che la tua pagina chalet sia strutturata?*
+- *Come preferireti che la tua pagina chalet sia strutturata?*
+Attraverso questa domanda vogliamo capire quali informazioni i gestori degli chalet ritengono debbano essere più in vista nella visita della pagina del singolo chalet. Si comprende a cosa dare importanza nelle itnerfacce grafiche.
 
-*Per essere sull’app quale tipo di commissione preferiresti?*
+- *Per essere sull’app quale tipo di commissione preferiresti?*
+? Si chiede quale tipologia di pagamento preferirebbe avere (TODO secondo me non ha molto senso rileggendola, si potrebbe togliere)
 
 ##### Area cliente
 
-*Con quale frequenza vai al mare in estate?*
-*Quando vai al mare, vai in spiagga libera o sugli chalet?*
-*Se dovessi scegliere uno chalet per andare al mare, quale tra queste opzioni preferiresti?*
-*Nella scelta di uno chalet ascolteresti pareri dei conoscenti o consulteresti anche recensioni online?*
-*Quale tra queste opzioni consulteresti per la scelta di uno chalet? (TODO questa domanda esclude la precendente, deciderne una)*
-*Quali caratteristiche considereresti maggiormente nella tua scelta rispetto ad uno chalet?*
-*Ritieni significative le recensioni nella scelta di uno chalet?*
-*Per quale motivo prenoteresti tramite l'app piuttosto che in un altro modo? (Es tramite telefono)*
+- *Con quale frequenza vai al mare in estate?*
+- *Quando vai al mare, vai in spiagga libera o sugli chalet?*
+- *Se dovessi scegliere uno chalet per andare al mare, quale tra queste opzioni preferiresti?*
+- *Nella scelta di uno chalet ascolteresti pareri dei conoscenti o consulteresti anche recensioni online?*
+- *Quale tra queste opzioni consulteresti per la scelta di uno chalet? (TODO questa domanda esclude la precendente, deciderne una)*
+- *Quali caratteristiche considereresti maggiormente nella tua scelta rispetto ad uno chalet?*
+- *Ritieni significative le recensioni nella scelta di uno chalet?*
+- *Per quale motivo prenoteresti tramite l'app piuttosto che in un altro modo? (Es tramite telefono)*
 
 
 
