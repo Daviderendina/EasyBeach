@@ -180,14 +180,20 @@ Attraverso queste due domande cerchiamo di capire se le informazioni riguardanti
 
 ##### Area feature
 *Da quale device utilizzeresti il nostro servizio?*
+Attraverso questa domanda si vuole appunto comprendere quali sono i device verso quale si dovrebbe porre maggior attenzione per la piattaforma. (TODO: abbiamo già deciso che è un applicazione, perchè dobbiamo chiedere anche questo?)
 
-*(TODO: se lascio questa togliere quella dei clienti ?) Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
+*Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
+(TODO: se lascio questa togliere quella dei clienti ?)
+Si vuole comprendere se la presenza di un sistema di recensione degli chalet sia percepita in maniera positiva da clienti e proprietari
 
-*Troveresti utile avere recensioni da profili verificati, per avere una maggiore affidabilità?*
+*Troveresti utile avere recensioni da profili verificati (es. guide locali), per avere una maggiore affidabilità?*
+Si vuole comprendere se gli utenti percepirebbero le recensioni da utenti verificati (es. guide locali) come garanzia di affidabilità della recensione, e se un sistema del genere possa portare benefici al sistema di recensioni in generale.Si vuole quindi evitare di introdurre nelle specifiche una funzionalità che non sarebbe poi sfruttata a pieno dagli stakeholder.
 
 *Preferiresti recensioni con solo testo, o con la possibilità di aggiungere allegati? (Foto, video etc.)*
+Si vuole comprendere se l'introduzione di allegati alle recensioni sia effettivamente utile oppure utilizzata poco / non tuilizzata dagli utenti. Si vuole quindi evitare di introdurre nelle specifiche una funzionalità che non sarebbe poi sfruttata a pieno dagli stakeholder.
 
 *Sei il proprietario di uno chalet?*
+Poniamo questa domanda per suddividere la successiva parte del questionario in due aree dedicate per clienti e gestori.
 
 ##### Area proprietario
 
