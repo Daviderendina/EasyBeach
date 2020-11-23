@@ -217,7 +217,7 @@ Per far percepire l'utilità o meno della presenza dello chalet nella piattaform
 Si vuole comprendere il gradimento del gestore riguardo ai diversi metodi di notifica proposti.
 
 - *Ritieni utile un sistema per effettuare recensioni sui clienti?*
-Si vuole capire se il gestore utilizzerebbe o meno un sistema di recensione sui clienti, siccome magari per mancanza di tempo o per difficoltà esso potrebbe non essere utilizzato.
+(TODO) non va messo quando facciamo le altre domande sulle recensioni? - Si vuole capire se il gestore utilizzerebbe o meno un sistema di recensione sui clienti, siccome magari per mancanza di tempo o per difficoltà esso potrebbe non essere utilizzato.
 
 - *Come preferireti che la tua pagina chalet sia strutturata?*
 Attraverso questa domanda vogliamo capire quali informazioni i gestori degli chalet ritengono debbano essere più in vista nella visita della pagina del singolo chalet. Si comprende a cosa dare importanza nelle itnerfacce grafiche.
@@ -228,14 +228,28 @@ Attraverso questa domanda vogliamo capire quali informazioni i gestori degli cha
 ##### Area cliente
 
 - *Con quale frequenza vai al mare in estate?*
-- *Quando vai al mare, vai in spiagga libera o sugli chalet?*
-- *Se dovessi scegliere uno chalet per andare al mare, quale tra queste opzioni preferiresti?*
-- *Nella scelta di uno chalet ascolteresti pareri dei conoscenti o consulteresti anche recensioni online?*
-- *Quale tra queste opzioni consulteresti per la scelta di uno chalet? (TODO questa domanda esclude la precendente, deciderne una)*
-- *Quali caratteristiche considereresti maggiormente nella tua scelta rispetto ad uno chalet?*
-- *Ritieni significative le recensioni nella scelta di uno chalet?*
-- *Per quale motivo prenoteresti tramite l'app piuttosto che in un altro modo? (Es tramite telefono)*
+Attraverso questa domanda si vuole comprendere la frequenza con cui un cliente di uno chalet va al mare., in quanto in base alla frequenza potrebbero esserci diverse esigenze (es. una persona che va al mare una volta a settimana ha probabilmente più esigenza di utilizzare l'app, poichè potrebbe servirgli potenzialmente per ogni occasione. Una persona che al mare va tutti i giorni invece, probabilmente prende il lettino mensilmente/stagionalmente presso uno chalet conosciuto oppure utilizza comunque l'applicazione poche volte - poichè le prenotazioni potrebbero essere più lunghe). Inoltre se una persona non va mai al mare, non conosce le esigenze ..
 
+- *Quando vai al mare, vai più spesso in spiagga libera o sugli chalet?*
+Ci si vuole rendere conto per le risposte successive se l'utente utilizza effettivamente gli chalet oppure risponde solamente in base alle sue sensazioni (?)
+
+- *Se dovessi scegliere uno chalet per andare al mare, quale tra queste opzioni preferiresti?*
+? TODO serve oppure è simile comunque come scopo a quelle sopra? Serve a capire adesso come preferisce farlo (SYSTEM AS-IS), ma non otteniamo nessuna info dal system to-be attraverso questa domanda.
+
+- *Nella scelta di uno chalet ascolteresti pareri dei conoscenti o consulteresti anche recensioni online?*
+TODO obiettivo di questa domanda è capire se trova utili le recensioni online, posta sotto una forma diversa. Non otteniamo un'info uguale a quella che otteniamo dalla domanda *(TODO) Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
+
+- *Ritieni significative le recensioni nella scelta di uno chalet?*
+TODO obiettivo di questa domanda è capire se trova utili le recensioni online, posta sotto una forma diversa.
+
+- *Quale tra queste opzioni consulteresti per la scelta di uno chalet? (TODO questa domanda esclude la precendente, deciderne una)*
+TODO Vedi sopra
+
+- *Quali caratteristiche considereresti maggiormente nella tua scelta rispetto ad uno chalet?*
+Si vuole comprendere quali siano le informazioni che l'utente ritiene maggiormente utili per la scelta dello chalet, in modo da metterle in primo piano e utilizzarle per effettuare filtri efficaci.
+
+- *Per quale motivo prenoteresti tramite l'app piuttosto che in un altro modo? (Es tramite telefono)*
+Si vuole capire cosa spingerebbe l'utente a utilizzare la nostra app piuttosto che qualsiasi altro metodo.
 
 
 ### 5. Analisi delle risposte ricevute dai questionari
