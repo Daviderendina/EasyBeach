@@ -154,7 +154,7 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 In questa fase si vuole conoscere qualche informazione generale riguardo all'utente che sta svolgendo il questionario.
 
 - *Quanti anni hai?* 
-Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età.
+Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età. Le fasce di età sono divise in base all'utilizzo che pensiamo gli utenti potranno fare della nostra app, e in particolare verranno prese in considerazione più le risposte delle fasce 15-30 e 31-50 rispetto alle altre, poichè sono le generazioni più abituate all'utilizzo del telefonino e di internet.
 
 - *Hai mai usato un'applicazione per prenotare o usufruire di servizi?* 
 Analizzare se l'utente ha dimestichezza con altri sistemi di prenotazione online, per analizzare le risposte in base alle esperienze passate. 
@@ -177,17 +177,16 @@ Per comprendere se i potenziali stakeholder provano interesse nei confronti del 
 - *Hai mai cercato informazioni o caratteristiche riguardo agli chalet nelle località di mare (attraverso passaparola, internet, guide turistiche, ecc..) ?* (vedi dopo)
 
 - *Sei hai risposto sì alla domanda precedente, sei riuscito ad ottenere con facilità le informazioni richieste?*
-(TODO: prima dobbiamo chiedergli se va al mare?) Attraverso queste due domande cerchiamo di capire se le informazioni riguardanti gli chalet delle località marittime sono facilmente raggiungibili e esaustive, per comprendere se il nostro sistema potrebbe portare benefici agli utenti.
+Attraverso queste due domande cerchiamo di capire se le informazioni riguardanti gli chalet delle località marittime sono facilmente raggiungibili e esaustive, per comprendere se il nostro sistema potrebbe portare benefici agli utenti.
 
 ##### Area feature
 - *Da quale device utilizzeresti il nostro servizio?* 
 Attraverso questa domanda si vuole appunto comprendere quali sono i device verso quale si dovrebbe porre maggior attenzione per la piattaforma. (TODO: abbiamo già deciso che è un applicazione, perchè dobbiamo chiedere anche questo?)
 
-- *Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
-(TODO: se lascio questa togliere quella dei clienti ?)
+- *Ritieni utile la possibilità di consultare ed effettuare e consultare recensioni riguardanti gli chalet all'interno dell'applicazione?*
 Si vuole comprendere se la presenza di un sistema di recensione degli chalet sia percepita in maniera positiva da clienti e proprietari
 
-- *Troveresti utile avere recensioni da profili verificati (es. guide locali), per avere una maggiore affidabilità?*
+- *Troveresti utile avere recensioni da profili verificati, per avere una maggiore affidabilità?*
 Si vuole comprendere se gli utenti percepirebbero le recensioni da utenti verificati (es. guide locali) come garanzia di affidabilità della recensione, e se un sistema del genere possa portare benefici al sistema di recensioni in generale.Si vuole quindi evitare di introdurre nelle specifiche una funzionalità che non sarebbe poi sfruttata a pieno dagli stakeholder.
 
 - *Preferiresti recensioni con solo testo, o con la possibilità di aggiungere allegati? (Foto, video etc.)*
@@ -221,9 +220,9 @@ Per far percepire l'utilità o meno della presenza dello chalet nella piattaform
 Si vuole comprendere il gradimento del gestore riguardo ai diversi metodi di notifica proposti.
 
 - *Ritieni utile un sistema per effettuare recensioni sui clienti?*
-(TODO) non va messo quando facciamo le altre domande sulle recensioni? - Si vuole capire se il gestore utilizzerebbe o meno un sistema di recensione sui clienti, siccome magari per mancanza di tempo o per difficoltà esso potrebbe non essere utilizzato.
+(Si vuole capire se il gestore utilizzerebbe o meno un sistema di recensione sui clienti, siccome magari per mancanza di tempo o per difficoltà esso potrebbe non essere utilizzato.
 
-- *Come preferireti che la tua pagina chalet sia strutturata?*
+- *Come preferiresti che la tua pagina chalet sia strutturata?*
 Attraverso questa domanda vogliamo capire quali informazioni i gestori degli chalet ritengono debbano essere più in vista nella visita della pagina del singolo chalet. Si comprende a cosa dare importanza nelle itnerfacce grafiche.
 
 ##### Area cliente
@@ -238,13 +237,7 @@ Ci si vuole rendere conto per le risposte successive se l'utente utilizza effett
 ? TODO serve oppure è simile comunque come scopo a quelle sopra? Serve a capire adesso come preferisce farlo (SYSTEM AS-IS), ma non otteniamo nessuna info dal system to-be attraverso questa domanda.
 
 - *Nella scelta di uno chalet ascolteresti pareri dei conoscenti o consulteresti anche recensioni online?*
-TODO obiettivo di questa domanda è capire se trova utili le recensioni online, posta sotto una forma diversa. Non otteniamo un'info uguale a quella che otteniamo dalla domanda *(TODO) Ritieni utile la possibilità di effettuare e consultare recensioni riguardanti gli chalet?*
-
-- *Ritieni significative le recensioni nella scelta di uno chalet?*
-TODO obiettivo di questa domanda è capire se trova utili le recensioni online, posta sotto una forma diversa.
-
-- *Quale tra queste opzioni consulteresti per la scelta di uno chalet? (TODO questa domanda esclude la precendente, deciderne una)*
-TODO Vedi sopra
+?
 
 - *Quali caratteristiche considereresti maggiormente nella tua scelta rispetto ad uno chalet?*
 Si vuole comprendere quali siano le informazioni che l'utente ritiene maggiormente utili per la scelta dello chalet, in modo da metterle in primo piano e utilizzarle per effettuare filtri efficaci.
@@ -252,7 +245,7 @@ Si vuole comprendere quali siano le informazioni che l'utente ritiene maggiormen
 - *Per quale motivo prenoteresti tramite l'app piuttosto che in un altro modo? (Es tramite telefono)*
 Si vuole capire cosa spingerebbe l'utente a utilizzare la nostra app piuttosto che qualsiasi altro metodo.
 
-- *Ogni gestore per registrare il suo chalet all’interno dell’applicazione deve passare una procedura di verifica. Ritieni che questo metodo possa aumentare la tua fiducia nei confronti dell’app e conseguentemente riduca il rischio di subire frodi/danni?*
+- *Ogni gestore per registrare il suo chalet all’interno dell’applicazione deve passare una procedura di verifica. Ritieni che questo metodo possa aumentare la tua fiducia nei confronti del sistema?*
 
 - *Ritieni che una ricerca filtrata in base alle tue preferenze sia un modo efficace per ricercare chalet adatti?*
 
