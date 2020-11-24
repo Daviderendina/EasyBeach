@@ -193,6 +193,10 @@ Si vuole comprendere se gli utenti percepirebbero le recensioni da utenti verifi
 - *Preferiresti recensioni con solo testo, o con la possibilità di aggiungere allegati? (Foto, video etc.)*
 Si vuole comprendere se l'introduzione di allegati alle recensioni sia effettivamente utile oppure utilizzata poco / non tuilizzata dagli utenti. Si vuole quindi evitare di introdurre nelle specifiche una funzionalità che non sarebbe poi sfruttata a pieno dagli stakeholder.
 
+- *Ritieni utile un servizio di supporto on-line in caso di problemi con le prenotazioni?*
+
+- *Nel caso, come preferiresti contattare il servizio ?*
+
 - *Sei il proprietario di uno chalet?*
 Poniamo questa domanda per suddividere la successiva parte del questionario in due aree dedicate per clienti e gestori.
 
@@ -201,7 +205,7 @@ Poniamo questa domanda per suddividere la successiva parte del questionario in d
 - *Come preferiresti ricevere pagamenti dal cliente?*
 Vogliamo capire quali metodi di pagamenti sono preferiti dai gestori, per evitare di implementare poi metodi poco oppure non utilizzati del tutto.
 
-- *Ritieni utile un servizio di promozione dello chalet via app? (Visibilità data dall'app piuttosto che ad esempio presenza nell'elenco telefonico)*
+- *Ritieni la nostra applicazione uno strumento utile per avere una maggiore visibilità e conseguentemente aumentare l'afflusso di clienti?*
 ?
 
 - *Pagheresti una quota per pubblicizzarti all interno dell app (es. comparire tra i risultati sponsorizzati)?*
@@ -221,9 +225,6 @@ Si vuole comprendere il gradimento del gestore riguardo ai diversi metodi di not
 
 - *Come preferireti che la tua pagina chalet sia strutturata?*
 Attraverso questa domanda vogliamo capire quali informazioni i gestori degli chalet ritengono debbano essere più in vista nella visita della pagina del singolo chalet. Si comprende a cosa dare importanza nelle itnerfacce grafiche.
-
-- *Per essere sull’app quale tipo di commissione preferiresti?*
-? Si chiede quale tipologia di pagamento preferirebbe avere (TODO secondo me non ha molto senso rileggendola, si potrebbe togliere)
 
 ##### Area cliente
 
@@ -251,6 +252,11 @@ Si vuole comprendere quali siano le informazioni che l'utente ritiene maggiormen
 - *Per quale motivo prenoteresti tramite l'app piuttosto che in un altro modo? (Es tramite telefono)*
 Si vuole capire cosa spingerebbe l'utente a utilizzare la nostra app piuttosto che qualsiasi altro metodo.
 
+- *Ogni gestore per registrare il suo chalet all’interno dell’applicazione deve passare una procedura di verifica. Ritieni che questo metodo possa aumentare la tua fiducia nei confronti dell’app e conseguentemente riduca il rischio di subire frodi/danni?*
+
+- *Ritieni che una ricerca filtrata in base alle tue preferenze sia un modo efficace per ricercare chalet adatti?*
+
+- *Ritieni utile anche una mappa per vedere gli chalet più vicini e raggiungerli più facilmente?*
 
 ### 5. Analisi delle risposte ricevute dai questionari
 ### 6 Generazione degli scenari e discussione con gli stakeholder
