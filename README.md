@@ -148,10 +148,12 @@ Nel processo di elicitazione, dovrebbe essere effettuato un primo studio delle f
 
 ### 4. Preparazione e sottomissione dei questionari
 
+Il questionario è diviso in due parti
+
 ![](img/workflow-quest.jpg)
 
 ##### Area introduttiva
-In questa fase si vuole conoscere qualche informazione generale riguardo all'utente che sta svolgendo il questionario.
+Le domande presenti in quest'area servono a conoscere qualche informazione generale riguardo all'utente che sta svolgendo il questionario.
 
 - *Quanti anni hai?* 
 Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze di ogni fascia di età. Le fasce di età sono divise in base all'utilizzo che pensiamo gli utenti potranno fare della nostra app, e in particolare verranno prese in considerazione più le risposte delle fasce 15-30 e 31-50 rispetto alle altre, poichè sono le generazioni più abituate all'utilizzo del telefonino e di internet.
@@ -160,7 +162,7 @@ Comprensione dell'età dello stakeholder, per analizzare al meglio le esigenze d
 Analizzare se l'utente ha dimestichezza con altri sistemi di prenotazione online, per analizzare le risposte in base alle esperienze passate. In particolare questa domanda serve per sottoporre l'utente a ulteriori domande di approfondimento dei sistemi utilizzati, al fine di comprendere l'utilità o meno di queste soluzioni online per la prenotazione.
 
 ##### Area introduttiva app usate
-Questa successione di domande, punta a conoscere se l'utente che ha già utilizzato qualche app l'ha ritenuta utile o meno, e se quindi le applicazioni di questo tipo siano effettivamente percepite come utili dagli utenti.
+Le domande presenti in quest'area puntano a conoscere se l'utente che ha già utilizzato qualche app l'abbia ricevuta utile o meno, e se quindi le applicazioni di questo tipo siano effettivamente percepite come un valore aggiunto.
 
 - *Quali app hai già usato per prenotare o usufruire di servizi?* 
 Questa domanda è utile per comprendere i sistemi che gli utenti usano abitualmente (in modo da poterne analizzare i punti di forza e debolezza?) ??
@@ -171,6 +173,8 @@ Questa domanda è utile per comprendere i sistemi che gli utenti usano abitualme
 Attraverso queste due domande si vuole comprendere se l'utente ha trovato questi sistemi utili e completi, per capire se il nostro prodotto può portare a un valore aggiunto o meno e analizzare eventualmente le altre applicazioni di questo tipo per scovare i loro punti di debolezza.
 
 ##### Area chalet
+Le domande presenti in quest'area hanno lo scopo di raccogliere le risposte e il punto di vista degli stakeholder riguardo la prenotazione degli chalet, sia attuale (system as-is) che nel nostro sistema (system to-be)
+
 - *Ritieni utile un applicazione che ti permetta di effettuare la prenotazione smart di ombrelloni presso gli chalet nelle località di mare?*
 Per comprendere se i potenziali stakeholder provano interesse nei confronti del system to-be.
 
@@ -180,6 +184,8 @@ Per comprendere se i potenziali stakeholder provano interesse nei confronti del 
 Attraverso queste due domande cerchiamo di capire se le informazioni riguardanti gli chalet delle località marittime sono facilmente raggiungibili e esaustive, per comprendere se il nostro sistema potrebbe portare benefici agli utenti e fornire informazioni che sono attualmente difficilmente accessibili.
 
 ##### Area feature
+Le domande presenti in quest'area pongono la loro enfasi maggiormente sulle feature dell'applicazione comuni a tutte e due le categorie di stakeholder alle quali stiamo sottoponendo il questionario.
+
 - *Da quale device utilizzeresti il nostro servizio?* 
 Attraverso questa domanda si vuole comprendere quali sono i device verso quale si dovrebbe porre maggior attenzione per la piattaforma.
 
@@ -202,6 +208,7 @@ Vogliamo comprendere le metodologie preferite dagli stakeholder per contattare i
 Poniamo questa domanda per suddividere la successiva parte del questionario in due aree dedicate per clienti e gestori.
 
 ##### Area proprietario
+Le domande presenti in quest'area sono dedicate ai proprietari di chalet e puntano a comprendere il loro punto di vista riguardo l'applicazione ed eventuali feature da implementare o meno.
 
 - *Ritieni EasyBeach uno strumento utile per avere una maggiore visibilità e conseguentemente aumentare l'afflusso di clienti?*
 Chiediamo il punto di vista del gestore riguardo EasyBeach, per comprendere se anche dal punto di vista dello chalet è percepita come uno strumento utile per aumentare il fatturato e quindi invoglierebbe i gestori al loro utilizzo.
@@ -228,9 +235,11 @@ Si vuole capire se il gestore ritiene utile e utilizzerebbe un sistema per recen
 Attraverso questa domanda vogliamo capire quali informazioni i gestori degli chalet ritengono debbano essere più in vista nella visita della pagina del singolo chalet, in modo da comprendere quali informazioni abbiano più importanza per loro rispetto ad altre e debbano essere quindi più in vista nella UI.
 
 ##### Area cliente
+Le domande presenti in quest'area hanno lo scopo di conoscere il punto di vista nei confronti del sistem as-is e del system to-be da parte dei non proprietari di chalet (cioè i potenziali clienti).
 
 - *Con quale frequenza vai al mare in estate?*
 Attraverso questa domanda si vuole comprendere la frequenza con cui un cliente di uno chalet va al mare, in quanto in base alla frequenza potrebbero esserci diverse esigenze (es. una persona che va al mare una volta a settimana ha probabilmente più esigenza di utilizzare l'app, poichè potrebbe servirgli potenzialmente per ogni occasione. Una persona che al mare va tutti i giorni invece, probabilmente prende il lettino mensilmente/stagionalmente presso uno chalet conosciuto oppure utilizza comunque l'applicazione poche volte - poichè le prenotazioni potrebbero essere più lunghe). Inoltre se una persona non va mai al mare, non conosce le esigenze ..
+TODO: da rivedere
 
 - *Quando vai al mare, vai più spesso in spiagga libera o sugli chalet?*
 Ci si vuole rendere conto per le risposte successive se l'utente utilizza effettivamente gli chalet oppure risponde solamente in base alle sue sensazioni (?)
