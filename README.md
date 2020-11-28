@@ -238,8 +238,7 @@ Attraverso questa domanda vogliamo capire quali informazioni i gestori degli cha
 Le domande presenti in quest'area hanno lo scopo di conoscere il punto di vista nei confronti del sistem as-is e del system to-be da parte dei non proprietari di chalet (cioè i potenziali clienti).
 
 - *Con quale frequenza vai al mare in estate?*
-Attraverso questa domanda si vuole comprendere la frequenza con cui un cliente di uno chalet va al mare, in quanto in base alla frequenza potrebbero esserci diverse esigenze (es. una persona che va al mare una volta a settimana ha probabilmente più esigenza di utilizzare l'app, poichè potrebbe servirgli potenzialmente per ogni occasione. Una persona che al mare va tutti i giorni invece, probabilmente prende il lettino mensilmente/stagionalmente presso uno chalet conosciuto oppure utilizza comunque l'applicazione poche volte - poichè le prenotazioni potrebbero essere più lunghe). Inoltre se una persona non va mai al mare, non conosce le esigenze ..
-TODO: da rivedere
+Attraverso questa domanda si vuole comprendere la frequenza con cui un cliente di uno chalet va al mare, in quanto in base alla frequenza potrebbero esserci diverse esigenze. Per esempio una persona che va al mare più di rado avrà più bisogno dell applicazione per conoscere nuovi chalet e per prenotare di volta in volta, mentre una persona che va tutti i giorni è più probabile che prenoti una volta per tutta la stagione al proprio chalet di fiducia senza aver bisogno di usare l'applicazione o comunque usandola più sporadicamente.
 
 - *Quando vai al mare, vai più spesso in spiagga libera o sugli chalet?*
 Ci si vuole rendere conto per le risposte successive se l'utente utilizza effettivamente gli chalet oppure risponde solamente in base alle sue sensazioni (?)
